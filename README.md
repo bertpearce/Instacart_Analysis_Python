@@ -4,5 +4,5 @@ The Instacart Grocery Basket Analysis Project is a CareerFoundry Data Analytics 
 
 ## Supporting Documentation
 
-- [Instacart Grocery Basket Analysis Brief](./Instacart_Basket_Analysis/01_Project_Management/Instacart_Grocery_Basket_Analysis_Project_Brief.pdf)
+- [Instacart Grocery Basket Analysis Brief](./Instacart_Basket_Analysis/01_Project_Managment/Instacart_Grocery_Basket_Analysis_Project_Brief.pdf)
 - [Final Excel Presentation](./Instacart_Basket_Analysis/05_Sent_to_Client/Instacart_Grocery_Basket_Analysis_Final_Report.xlsx)
